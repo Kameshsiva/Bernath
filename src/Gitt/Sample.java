@@ -6,6 +6,12 @@ public class Sample {
 		System.out.println("Kamesh");
 		System.out.println("Siva");
 
+	
+		System.out.println("Priya");
+		System.out.println("Bernath");
+	
+	
 	}
-
+	
+	
 }
