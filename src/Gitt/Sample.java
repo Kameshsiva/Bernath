@@ -10,6 +10,12 @@ public class Sample {
 		System.out.println("Jayan love anushka");
 		System.out.println("Kama ");
 
+	
+		System.out.println("Priya");
+		System.out.println("Bernath");
+	
+	
 	}
-
+	
+	
 }
